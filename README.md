@@ -1,6 +1,6 @@
 # some NLP exercises
 
-Interesting NLP Readings:
+Interesting Light NLP Readings:
 
 https://openai.com/blog/better-language-models/
 
